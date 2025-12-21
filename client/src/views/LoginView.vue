@@ -43,7 +43,7 @@ const handleLogin = () => {
 <template>
     <div class="d-flex justify-content-center align-items-center vh-100 bg-light">
         <div class="card shadow p-4" style="width: 400px;">
-            <h3 class="fs-4 fw-bold text-center text-primary mb-4">Banking Website App</h3>
+            <h3 class="fs-4 fw-bold text-center text-primary mb-4">Banking Web App</h3>
 
             <form @submit.prevent="handleLogin">
                 <div class="mb-3">
